@@ -11,12 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+TODO: this package has been created for using from "Roulette Wheel" and "SUS" (Stochastic universal sampling) method in computational intelligence like genetic, evolutionary strategy and etc algorithms
 
 ## Getting started
 
@@ -25,12 +20,11 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+TODO: create or get your dataset from csv or database or etc.
+after convert it to dart class then get fitness of each class(individual) by evaluation function you have created
+then send the list of your items that have been created of id and fitness about each individual to your selected algorithm like [SUS] or [Roulette Wheel]
 
-```dart
-const like = 'sample';
-```
+Node: your '''id''' can be custom type. That identifier is which class you have selected
 
 ## Additional information
 
