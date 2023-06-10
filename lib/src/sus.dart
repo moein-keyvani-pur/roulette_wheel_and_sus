@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:roulette_wheel_and_sus/src/roulette_wheel_and_sus_base.dart';
 
-import '../models/individulavm.dart';
+import 'models/individula_vm.dart';
 
 class Sus extends BaseAlgorithm {
   Sus({

@@ -1,4 +1,4 @@
-import '../models/individulavm.dart';
+import 'models/individula_vm.dart';
 
 class BaseAlgorithm {
   List<Individual> _individualWithFitness;

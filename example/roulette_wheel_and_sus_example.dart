@@ -1,6 +1,7 @@
-import 'package:roulette_wheel_and_sus/models/individulavm.dart';
 import 'package:roulette_wheel_and_sus/roulette_wheel_and_sus.dart';
 import 'dart:math' as math;
+
+import 'package:roulette_wheel_and_sus/src/models/individula_vm.dart';
 
 void main() {
   /// our dataset is like bottom:
